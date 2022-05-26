@@ -12,4 +12,4 @@
 
 #### Estas instalações são necessárias pois o `Python` usa a biblioteca `Selenium` e o `Selenium` usa o `Geckodriver` para abrir o `Mozilla Firefox` e rodar as automações
 
-* Ao instalar o `Python` digite `pip install Selenium` no Console para instalar o `Selenium
+* Ao instalar o `Python` digite `pip install Selenium` no Console para instalar o `Selenium`
