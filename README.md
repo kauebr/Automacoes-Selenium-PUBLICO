@@ -10,6 +10,6 @@
  na dúvida aqui tem um [tutorial](https://www.youtube.com/watch?v=Ot10qzrb13c) de como instalar o `Geckodriver` e o `Python`;
  * [Mozila Firefox](https://www.mozilla.org/pt-BR/firefox/new/)
 
-#### Estas instalações são necessárias pois o `Python` usa a biiblioteca `Selenium` e o `Selenium` usa o `Geckodriver` para abrir o `Mozilla Firefox` e rodar as automações
+#### Estas instalações são necessárias pois o `Python` usa a biblioteca `Selenium` e o `Selenium` usa o `Geckodriver` para abrir o `Mozilla Firefox` e rodar as automações
 
 * Ao instalar o `Python` digite `pip install Selenium` no Console para instalar o `Selenium
